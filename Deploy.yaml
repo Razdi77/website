@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: my-deployment
-        image: razdi77/razdi77
+        image: razdi77/abc
         ports:
         - containerPort: 80
